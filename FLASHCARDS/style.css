@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    height: auto
+}
+.js, .css{
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+footer{
+    background-color: rgb(162, 235, 235);
+    color: azure;
+    padding: 1rem;
+    font-size: 8px;
+}
+
